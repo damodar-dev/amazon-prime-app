@@ -1,6 +1,7 @@
 # 📦 Amazon Prime App — Freestyle CI/CD Pipeline on AWS
 ---------------------------------------------------------
 
+
 ## 📌 Project Overview
 
 This project demonstrates a **Freestyle CI/CD pipeline** built on AWS Cloud.  
